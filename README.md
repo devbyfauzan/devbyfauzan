@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="start"> 
-  <img src="https://komarev.com/ghpvc/?username=fauzanmuh&abbreviated=true&color=brightgreen" /></p>
+  <img src="https://komarev.com/ghpvc/?username=devbyfauzan&abbreviated=true&color=brightgreen" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanmuh&hide_progress=false" width="360px" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyfauzan&hide_progress=false" width="360px" /></p>
